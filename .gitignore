@@ -1,3 +1,11 @@
+# Below are some things that would be useful to have in your .gitignore
+# Probably overkill, but it'd be worth looking into what these files do
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
